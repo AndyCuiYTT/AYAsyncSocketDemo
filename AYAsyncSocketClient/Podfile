@@ -1,0 +1,12 @@
+
+platform :ios, "8.0"
+
+use_frameworks!
+target 'AYAsyncSocketClient' do
+
+    pod 'CocoaAsyncSocket', '~> 7.6.1'
+
+
+end
+
+    
